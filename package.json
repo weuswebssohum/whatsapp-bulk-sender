@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-api",
+  "version": "1.0.0",
+  "description": "WhatsApp API using whatsapp-web.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "qrcode": "^1.4.4",
+    "uuid": "^8.3.2",
+    "whatsapp-web.js": "^1.15.1"
+  }
+}
